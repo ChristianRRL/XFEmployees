@@ -1,0 +1,16 @@
+/Users/christianrodriguez/Projects/XFEmployees/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/christianrodriguez/Projects/XFEmployees/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/christianrodriguez/Projects/XFEmployees/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/christianrodriguez/Projects/XFEmployees/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/christianrodriguez/Projects/XFEmployees/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/christianrodriguez/Projects/XFEmployees/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/christianrodriguez/Projects/XFEmployees/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/christianrodriguez/Projects/XFEmployees/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/christianrodriguez/Projects/XFEmployees/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/christianrodriguez/Projects/XFEmployees/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/christianrodriguez/Projects/XFEmployees/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/christianrodriguez/Projects/XFEmployees/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/christianrodriguez/Projects/XFEmployees/iOS/bin/iPhoneSimulator/Debug/SQLite.Net.dll
+/Users/christianrodriguez/Projects/XFEmployees/iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/christianrodriguez/Projects/XFEmployees/iOS/bin/iPhoneSimulator/Debug/XFEmployees.dll
+/Users/christianrodriguez/Projects/XFEmployees/iOS/bin/iPhoneSimulator/Debug/XFEmployees.dll.mdb

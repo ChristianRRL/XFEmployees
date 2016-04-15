@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="Droid/XFEmployees.Droid.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="XFEmployees/Employees.cs" Line="20" Column="23" />
+      <File FileName="XFEmployees/IConfig.cs" Line="9" Column="36" />
+      <File FileName="iOS/Config.cs" Line="41" Column="5" />
+      <File FileName="Droid/Config.cs" Line="42" Column="1" />
+      <File FileName="XFEmployees/DataAccess.cs" Line="38" Column="1" />
+      <File FileName="XFEmployees/HomePage.xaml" Line="54" Column="15" />
+      <File FileName="XFEmployees/HomePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XFEmployees/XFEmployees.cs" Line="24" Column="3" />
+      <File FileName="XFEmployees/obj/Debug/XFEmployees.HomePage.xaml.g.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFEmployees" expanded="True">
+            <Node name="XFEmployees" expanded="True">
+              <Node name="HomePage.xaml" expanded="True" />
+              <Node name="IConfig.cs" selected="True" />
+            </Node>
+            <Node name="XFEmployees.Droid" expanded="True" />
+            <Node name="XFEmployees.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

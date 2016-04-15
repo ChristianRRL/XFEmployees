@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	x:Class="XFEmployees.HomePage">
+	<ScrollView>
+		<StackLayout
+			Padding="10"
+			Spacing="10">
+			<Label
+				Text="Employees"
+				Font="24"
+				HorizontalOptions="Center"
+				VerticalOptions="Center"
+				FontAttributes="Bold"
+				TextColor="White" />
+			<Entry
+				x:Name="firstNamesEntry"
+				Placeholder="FirstNames"
+				TextColor="White" />
+			<Entry
+				x:Name="lastNamesEntry"
+				Placeholder="LastNames"
+				TextColor="White" />
+			<Entry
+				x:Name="salaryEntry"
+				Placeholder="Salary"
+				Keyboard="Numeric"
+				TextColor="White" />
+			<StackLayout
+				Orientation="Horizontal">
+				<Label
+					Text="Date: "
+					Font="18"
+					VerticalOptions="Center"
+					TextColor="White" />
+				<DatePicker
+					x:Name="contractDatePicker" />
+				<Label
+					Text="Active:"
+					Font="18"
+					VerticalOptions="Center"
+					TextColor="White"
+					HorizontalOptions="EndAndExpand" />
+				<Switch
+					x:Name="activeSwitch"
+					VerticalOptions="Center"
+					IsToggled="true" />
+			</StackLayout>
+			<Button
+				x:Name="addButton"
+				Text="Add"
+				TextColor="Black"
+				BackgroundColor="Aqua" 
+				HorizontalOptions="CenterAndExpand" />
+			<ListView
+				x:Name="dataListView" />
+		</StackLayout>
+	</ScrollView>
+</ContentPage>

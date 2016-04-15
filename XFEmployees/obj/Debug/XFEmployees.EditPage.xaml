@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	x:Class="XFEmployees.EditPage">
+	<ScrollView>
+		<StackLayout
+			Padding="10"
+			Spacing="10">
+			<Label
+				Text="Edit Employee"
+				Font="24"
+				HorizontalOptions="Center"
+				VerticalOptions="Center"
+				FontAttributes="Bold"
+				TextColor="White" />
+			<Entry
+				x:Name="firstNamesEntry"
+				Placeholder="FirstNames"
+				TextColor="White" />
+			<Entry
+				x:Name="lastNamesEntry"
+				Placeholder="LastNames"
+				TextColor="White" />
+			<Entry
+				x:Name="salaryEntry"
+				Placeholder="Salary"
+				Keyboard="Numeric"
+				TextColor="White" />
+			<StackLayout
+				Orientation="Horizontal">
+				<Label
+					Text="Contract Date:"
+					VerticalOptions="Center" />
+				<DatePicker
+					x:Name="contractDatePicker" />
+				<Label
+					Text="Active:"
+					HorizontalOptions="FillAndExpand"
+					VerticalOptions="Center" />
+				<Switch
+					x:Name="activeSwitch"
+					VerticalOptions="Center"
+					HorizontalOptions="End"
+					IsToggled="true" />
+			</StackLayout>
+			<StackLayout
+				Orientation="Horizontal">
+				<Button
+					x:Name="updateButton"
+					TextColor="Black"
+					BackgroundColor="Aqua"
+					Text="Update" />
+				<Button
+					x:Name="deleteButton"
+					TextColor="Black"
+					BackgroundColor="Aqua"
+					Text="Delete" />
+			</StackLayout>
+		</StackLayout>
+	</ScrollView>
+</ContentPage>
